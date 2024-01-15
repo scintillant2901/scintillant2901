@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://i.postimg.cc/L5BBrF6g/Py-Charm-Icon-svg.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
+  <img src="https://i.postimg.cc/zX4C71Zj/selenium-logo-large.png" title="Selenium" alt="Selenium" width="70" height="40"/>&nbsp;
   <img src="https://i.postimg.cc/hjmWkQ0f/645efa48-c368-4b96-a036-1977a128b483.jpg" title="Youtrack" alt="Youtrack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>

@@ -22,8 +22,8 @@
   <img src="https://i.postimg.cc/hjmWkQ0f/645efa48-c368-4b96-a036-1977a128b483.jpg" title="Youtrack" alt="Youtrack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" title="Git" **alt="Git" width="150" height="150"/>
 </div>
-
 <hr>
 
 ### 🌐 Socials
